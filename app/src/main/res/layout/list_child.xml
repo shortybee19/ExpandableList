@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:textAppearanceLarge"
         android:text="Large Text"
-        android:id="@+id/txtChild"
+        android:id="@+id/txtchild"
         android:layout_gravity="center"
         />
 </LinearLayout>
